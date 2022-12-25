@@ -7,3 +7,4 @@ all branch command:
 5. add all main branch code to sub: git pull origin main.
 6. to make merge with other branch: git merge main/branchName
 7. add data to your own branch:
+8. add branch file name and show them to the file folder.
