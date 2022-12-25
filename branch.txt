@@ -1,9 +1,0 @@
-all branch command:
-1. create new branch: git branch branchName
-1.1: create new branch name enter: git checkout -b branchName
-2. enter git branch: git checkout branchName
-3. show all branch: git branch
-4. remove a branch:
-5. add all main branch code to sub: git pull origin main.
-6. to make merge with other branch: git merge main/branchName
-7. add data to your own branch:
