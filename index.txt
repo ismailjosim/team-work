@@ -1,1 +1,14 @@
 Today we will know all about Git and GitBub
+------------------------------------------
+01. set user: git config --global user.name ismail
+02. set email: git config --global user.email  exmaple@gmail.com
+03. show available file => ls/ls -lart(to show hidden file)
+04. show git status: git status
+05. show untracked file: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+06. to add specific file/folder: cd folder => git add .
+07. backup single deleted file: git checkout file.txt
+08. backup all deleted files: git checkout -f
+09. show work log: => git log
+10. to see last modified file => git log -p -1
+11. see different => git diff
+12.
