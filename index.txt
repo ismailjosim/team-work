@@ -14,3 +14,4 @@ Today we will know all about Git and GitBub
 12. go back to the file => git reset
 13. reset hard => git reset --hard
 14. create git ignore => touch .gitignore
+15. To solve Conflict between two branch Problem:
