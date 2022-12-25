@@ -6,3 +6,4 @@ all branch command:
 4. remove a branch:
 5. add all main branch code to sub: git pull origin main.
 6. to make merge with other branch: git merge main/branchName
+7. add data to your own branch:
