@@ -4,4 +4,5 @@ all branch command:
 2. enter git branch: git checkout branchName
 3. show all branch: git branch
 4. remove a branch:
-5
+5. add all main branch code to sub: git pull origin main.
+
