@@ -11,4 +11,6 @@ Today we will know all about Git and GitBub
 09. show work log: => git log
 10. to see last modified file => git log -p -1
 11. see different => git diff
-12.
+12. go back to the file => git reset
+13. reset hard => git reset --hard
+14. create git ignore => touch .gitignore

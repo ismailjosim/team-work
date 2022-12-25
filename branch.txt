@@ -1,6 +1,7 @@
 all branch command:
-1.
-2.
-3.
-4.
+1. create new branch: git branch branchName
+1.1: create new branch name enter: git checkout -b branchName
+2. enter git branch: git checkout branchName
+3. show all branch: git branch
+4. remove a branch:
 5
